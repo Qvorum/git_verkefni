@@ -1,2 +1,35 @@
 ﻿#Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - Opnar möppu t.d cd mappa opnar möppuna mappa 
+	cd ~ - Opnar möppuna í user sem þú átt t.d C:/User/Hákon
+	ls - Sýnir innihald möppunar
+	pwd - Segir hvaða möppu þú ert að vinna í
+	mkdir - Býr til nýja möppu
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - Setur innihald möppu í aðra möppu
+	git log - Segir hver gerði hvaða kóða
+	git status - Sýnir allar tegundir af forritinu sem hefur verið gerð
+	git diff - Sýnir hvað hefur breyst
+	git checkout - Gefur það út sem nýtt branch
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - Sýnir hvað hefur breyst
+	b) git diff --staged - Sýnir allt sem þú hefur gert
+	c) git diff commit1 commit2 - Sýnir hvað þú hefur gert á milli tveggja gerðum
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		Sýnir hvað Forrit hefur breyst á milli útgáfna
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		Hægt að vinna tveir eða fleiri að sama hlut
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		Eftir að aðilinn sem gerði kóðan skoði hvort hann virki og er ekki með nein villuboð, Því annars myndi það taka lengri tíma að leita í öllu commits 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+		Hvaða möppu í forritinu þú ert að vinna í
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+		Til að sjá hver vann mest
+9.	Hver fann upp GIT?
+		Linus Torvalds
+10.	Hvar er GIT helst notað?
+		Hópverkefnum

@@ -27,7 +27,8 @@
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 		Hvaða möppu í forritinu þú ert að vinna í
 8.	Hvenær er sniðugt að nota greinar (branches)? 
-		
+		Til að sjá hver vann mest
 9.	Hver fann upp GIT?
-
+		Linus Torvalds
 10.	Hvar er GIT helst notað?
+		Hópverkefnum
